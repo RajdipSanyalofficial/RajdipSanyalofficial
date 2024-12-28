@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @RajdipSanyalofficial
-- 👀 I’m interested in Software Development Trainee
-- 👀 I'm a trainee engineer
+- 👀 Recently Completed Internship at Wipro.
+- 👀 My areas of interest are Core Java, HTML5, CSS3, JavaScript, React, Git.
+- 👀 Immidiate Joiner.
