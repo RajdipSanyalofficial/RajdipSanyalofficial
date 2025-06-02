@@ -1,5 +1,10 @@
-👋 - Hi, I'm Rajdip Sanyal — a passionate and motivated developer ready to make an impact.
-🚀 - Available for immediate joining — eager to contribute from day one.
-✅ - Recently completed internship at Wipro, where I gained real-world experience in full-cycle development.
-💡 - My key interests and skills include Java, HTML5, CSS3, JavaScript, React, and Git — with a strong foundation in building responsive, interactive web applications.
-📬 - Let’s connect! Reach me at: rajdipsanyal871@gmail.com
+👋 Hi, I'm Rajdip Sanyal — a passionate and motivated developer focused on building impactful digital experiences.
+
+🚀 Available for immediate joining, with a strong desire to contribute from day one.
+
+✅ Recently completed an internship at Wipro, where I gained hands-on experience in full-cycle mobile and web development.
+
+💡 Skilled in Java, HTML5, CSS3, JavaScript, React, and Git — with a solid foundation in creating responsive and interactive web applications.
+
+📬 Let's connect! You can reach me at rajdipsanyal871@gmail.com — I'm always open to new opportunities and collaborations.
+
