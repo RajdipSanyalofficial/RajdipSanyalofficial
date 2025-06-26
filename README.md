@@ -6,5 +6,5 @@
 
 💡 Skilled in Java, HTML5, CSS3, JavaScript, React, and Git — with a solid foundation in creating responsive and interactive web  applications.
 
-📬 Let's connect! You can reach me at rajdipsanyal871@gmail.com — I am always open to new opportunities.
+📬 Let's connect! You can reach me at sanyalrajdip864@gmail.com — I am always open to new opportunities.
 
