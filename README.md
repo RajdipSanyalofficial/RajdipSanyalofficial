@@ -4,6 +4,7 @@ Hi, I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong
   <img src="https://raw.githubusercontent.com/0xtd/gif/main/code.gif" width="410" alt="Coding GIF">
 </p>
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajdip-sanyal-40384a231/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajdipsanyal43@gmail.com) 
 
