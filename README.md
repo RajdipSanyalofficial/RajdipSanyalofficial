@@ -17,6 +17,8 @@ Hi, I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajdipSanyalofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-https://github.com/users/RajdipSanyalofficial/achievements/quickdraw
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajdipSanyalofficial&theme=onedark" width="500">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
