@@ -1,6 +1,5 @@
 <p align="center">
-  Hi 👋, I'm
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=350&lines=Rajdip+Sanyal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdip+Sanyal" alt="Hi, I'm Rajdip Sanyal" />
 </p>
 
 # 💫 About Me:
