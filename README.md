@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajdip Sanyal</h1>
-
+<p align="center">
+  Hi 👋, I'm
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&width=350&lines=Rajdip+Sanyal" />
+</p>
 # 💫 About Me:
 I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong passion for technology and continuous learning. I completed Wipro's Core Java and Advanced Mobile Application Development training, where I gained hands-on experience with Java, Android, iOS, and Appium. I have also built responsive web applications using HTML, CSS, Bootstrap, and JavaScript.<br><br>Currently, I am transitioning into Data Science and actively building expertise in Python, NumPy, Pandas, Pandasql, Statistics, Data Visualization, and Machine Learning through hands-on projects. I enjoy solving real-world problems with data and have solved 500+ coding problems on LeetCode, GeeksforGeeks, and CodeChef.<br><br>This GitHub showcases my projects, coding practice, and continuous learning journey. I am actively seeking opportunities to contribute, learn, and grow as a Data Science professional.<br>
 <p align="center">
