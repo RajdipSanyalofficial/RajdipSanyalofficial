@@ -23,12 +23,6 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 📈 My Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajdipSanyalofficial&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=RajdipSanyalofficial&style=flat-square&label=Views)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
