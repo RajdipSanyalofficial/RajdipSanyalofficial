@@ -21,9 +21,9 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajdipsanyalofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📈 My Contribution Graph
-<p align="center">
+<h1 align="center">
   <img src="https://github-readme-activity-graph-dusky-ten.vercel.app/graph?username=RajdipSanyalofficial&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</p>
+</h1>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
