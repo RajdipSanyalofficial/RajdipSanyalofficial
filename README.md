@@ -97,7 +97,7 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/geeksforgeeks" height="44" alt="GeeksforGeeks logo" />
-  <img width="14" />
+  <img width="15" />
 
 </div>
 
