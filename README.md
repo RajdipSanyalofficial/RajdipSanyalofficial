@@ -33,6 +33,8 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 
 ## 🐍 GitHub Contributions
 
-![GitHub Snake](https://raw.githubusercontent.com/RajdipSanyalofficial/RajdipSanyalofficial/output/snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RajdipSanyalofficial/RajdipSanyalofficial/output/snake.svg" alt="GitHub Snake" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
