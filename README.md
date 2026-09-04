@@ -19,14 +19,11 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajdipSanyalofficial&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-readme-stats.shion.dev/api?username=RajdipSanyalofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=rajdipsanyalofficial&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajdipsanyalofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -40,20 +37,5 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RajdipSanyalofficial&style=flat-square&label=Profile+Views+-)
 
-
-## 📊 Profile Summary
-<div align="center">
-  
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajdipSanyalofficial&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
