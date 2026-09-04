@@ -49,7 +49,7 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
+  <img width="10" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="12" />
