@@ -94,10 +94,10 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repositories-per-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/statistics?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajdipSanyalofficial&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 📊 My Contributions
