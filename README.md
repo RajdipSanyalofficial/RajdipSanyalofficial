@@ -30,4 +30,9 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RajdipSanyalofficial&style=flat-square&label=Profile+Views+-)
 
+
+## 🐍 GitHub Contributions
+
+![GitHub Snake](https://raw.githubusercontent.com/RajdipSanyalofficial/RajdipSanyalofficial/output/snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
