@@ -25,7 +25,6 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajdipSanyalofficial&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![](https://streak-stats.demolab.com/?user=rajdipsanyalofficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajdipsanyalofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📈 My Contribution Graph
 <h1 align="center">
@@ -36,6 +35,5 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RajdipSanyalofficial&style=flat-square&label=Profile+Views+-)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
