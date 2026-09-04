@@ -31,8 +31,9 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 ![Profile Views](https://komarev.com/ghpvc/?username=RajdipSanyalofficial&style=flat-square&label=Profile+Views+-)
 
 
+## 📊 Profile Summary
 <div align="center">
-
+  
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajdipSanyalofficial&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
