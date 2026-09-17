@@ -96,8 +96,8 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="38" alt="LeetCode logo" />
+  <img width="9" />
 
   <img src="https://cdn.simpleicons.org/geeksforgeeks" height="42" alt="GeeksforGeeks logo" />
   <img width="20" />
