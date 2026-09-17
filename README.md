@@ -121,6 +121,8 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajdipsanyalofficial&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajdipsanyalofficial&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </h1>
 
 
