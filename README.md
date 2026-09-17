@@ -127,6 +127,11 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 
 ![](https://streak-stats.demolab.com/?user=rajdipsanyalofficial&theme=tokyonight&hide_border=false)<br/>
 
+![](https://github-readme-stats.shion.dev/api?username=RajdipSanyalofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RajdipSanyalofficial&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RajdipSanyalofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 </h1>
 
 
