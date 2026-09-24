@@ -19,7 +19,7 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="9.8" />
+  <img width="9.7" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
@@ -79,7 +79,7 @@ I'm Rajdip Sanyal, a B.Tech graduate in Electrical Engineering with a strong pas
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" />
-  <img width="9.8" />
+  <img width="9.7" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
   <img width="12" />
